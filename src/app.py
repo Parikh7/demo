@@ -1,15 +1,3 @@
-import os
-import signal
-import subprocess
-import sys
-import threading
-import time
-
-import ffmpeg
-import openai
-import tiktoken
-import torch
-import whisper
 from flask import Flask, render_template
 from controllers.main_controller import main_controller
 from dotenv import load_dotenv

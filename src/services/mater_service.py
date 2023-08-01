@@ -24,6 +24,7 @@ class materService:
 #################### Dumping the script in services for now ##############################
 
 
+whisper_model = "medium"
 command_prompt = "Create clear and concise unlabelled bullet points summarizing key information"
 template = "Task Title: Implement Feature A in Application \n Assignee: [Assignee Name] Deadline: [Due Date] " \
            "Description: Develop and test Feature A in line with agreed upon specifications, and prepare " \
