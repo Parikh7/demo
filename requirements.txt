@@ -1,0 +1,10 @@
+Flask
+pytest
+ffmpeg-python==0.2.0
+openai==0.27.8
+tiktoken==0.3.3
+python_dotenv==1.0.0
+openai-whisper==20230314
+
+torch~=2.0.1
+python-dotenv~=1.0.0
